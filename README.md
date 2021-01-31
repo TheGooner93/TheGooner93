@@ -1,4 +1,4 @@
-![alt text](http://image.jpg)
+![alt text](image.jpg)
 
 ### Hi there 👋
 
