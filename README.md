@@ -1,1 +1,6 @@
-As you can see, ___I hate working on weekends.___ 😴
+
+___I hate working on weekends.___ 😴
+
+Weekends are for : 
+
+![](./giphy.gif)
