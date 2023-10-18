@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-I love great UI's and Im currently helping [one of UAE's leading fashion e-tailers](https://sivvi.com) in achieving a better customer experience on the web. I like to dabble around with multiple frameworks at the same time(maybe/maybe not a great way to learn, but hey it works for me!)
+I love great UI's and Im currently helping [one of UAE's leading fashion e-tailers](https://www.namshi.com) in achieving a better customer experience on the web. I like to dabble around with multiple frameworks at the same time(maybe/maybe not a great way to learn, but hey it works for me!)
 
 - 🔭 I’m currently working on a React Native app, integrated with a Strapi API hosted on Heroku.
 - 🌱 I’m currently learning **three.js** through their brilliant documentation and with a little help from [Bruno Simon](https://threejs-journey.xyz/)
