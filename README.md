@@ -1,8 +1,9 @@
 ### Marhaba! 👋
 
-I love great UI's and Im currently helping [one of UAE's leading fashion e-tailers](https://www.namshi.com) in achieving a better customer experience on the web. I like to dabble around with multiple frameworks at the same time(maybe/maybe not a great way to learn, but hey it works for me!)
+I love great UI's and Im currently leading frontend development for [one of UAE's leading e-commerce websites](https://www.noon.com). I like to dabble around with multiple frameworks at the same time(maybe/maybe not a great way to learn, but hey it works for me!)
 
 - 🌱 I’m currently learning **three.js** through their brilliant documentation and with a little help from [Bruno Simon](https://threejs-journey.xyz/)
+- 🌱 I’m also dabbling with OpenAI Apps SDK to build agentic AI workflows
 - 💬 Ask me about all things React and design-rich frontends.
 - 📫 How to reach me:
 - - [Linkedin](https://www.linkedin.com/in/m0hammed-ehab/)
